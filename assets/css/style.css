@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    
+    color: #777777;
+    background: url("../images/gravel.png");
+  }
+
+
+.NHead {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background-color:#4aaaa5;
+  color: white;
+}
+
+.MainC {
+  background-color: #ffffff;
+}
+
+#MHD {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  color: #4aaaa5;
+  border-bottom: 2px solid #cccccc;
+}
+
+h5 {
+  background-color:#4aaaa5;
+  color: white;
+}
+
+#PF{
+  background-color: #666666;
+  border-top: 8px solid #4aaaa5;
+}
+
+
+
+
+
